@@ -4,7 +4,7 @@ const should = chai.should();
 describe('Some test', () => {
     it('should fail', () => {
         const a = 'a';
-        const b = 'b';
+        const b = 'a';
         a.should.be.eql(b);
     });
 });
