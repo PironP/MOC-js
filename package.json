@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/julien-sarazin/MOC-js.git"
+    "url": "git+https://github.com/PironP/MOC-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julien-sarazin/MOC-js/issues"
+    "url": "https://github.com/PironP/MOC-js/issues"
   },
-  "homepage": "https://github.com/julien-sarazin/MOC-js#readme",
+  "homepage": "https://github.com/PironP/MOC-js#readme",
   "dependencies": {
     "body-parser": "1.18.2",
     "chai": "^4.1.2",
