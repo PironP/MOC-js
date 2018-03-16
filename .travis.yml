@@ -7,3 +7,8 @@ install:
 
 after_sucess:
   - npm test
+
+deploy:
+   provider: heroku
+   apikey: 9c9450e8-ddf1-484b-9456-07e7dc924691
+   app: pp-js
